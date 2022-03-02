@@ -1,5 +1,43 @@
 # Hi everyone, I'm Yuvraj
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px"> 
+
+## 🐱‍👤Skills:
+
+## 💻Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://go.dev/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+  </a>
+ 
+&emsp; 
+</p>
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-yuvi)](https://github.com/i-am-yuvi/github-readme-stats)
+
+
+## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px">
+
+<a href="https://github.com/i-am-yuvi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-yuvi&show_icons=true&locale=en&theme=merko" alt="candida18" height="192px"/></a>
 
 <a href="">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
