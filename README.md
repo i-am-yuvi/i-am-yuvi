@@ -30,14 +30,9 @@
 </p>
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-yuvi)](https://github.com/i-am-yuvi/github-readme-stats)
-
+<a href="https://github.com/i-am-yuvi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-yuvi&show_icons=true&locale=en&theme=merko" alt="candida18" height="192px"/></a>
 
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px">
-
-<a href="https://github.com/i-am-yuvi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-yuvi&show_icons=true&locale=en&theme=merko" alt="candida18" height="192px"/></a>
 
 <a href="">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
