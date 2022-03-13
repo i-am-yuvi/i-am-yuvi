@@ -29,13 +29,25 @@
   <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue">
   </a>
-  
 </p>
+
+  ## ☁Cloud Technologies
+  <p align="left"> 
+  <a href="https://cloud.google.com/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white">
+  </a>
+ &emsp;
+  <img alt="Github Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white">
+ &emsp;
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat&logo=amazonaws&logoColor=white">
+   </a>
+  </p>
 
 
 <a href="https://github.com/i-am-yuvi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-yuvi&show_icons=true&locale=en&theme=merko" alt="candida18" height="192px"/></a>
 
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px">
+  ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="70px">
 
 <a href="">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
