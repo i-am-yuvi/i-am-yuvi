@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-yuvi" alt="i-am-yuvi" /></a> </p>
 
-- 🔭 I’m currently working on [KubeEdge](https://github.com/kubeedge/kubeedge)
+- 🔭 I’m currently working on Argo
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML & AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-am-yuvi](https://github.com/i-am-yuvi)
 
@@ -17,6 +17,8 @@
 - 📫 How to reach me **devimyuvi@gmail.com**
 
 - ⚡ Fun fact **Keep it Simple, Stupid!**
+
+- 🖐️ [Follow me](https://twitter.com/uvource) on Twitter to know more about me!
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
