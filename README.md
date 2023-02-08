@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-am-yuvi](https://github.com/i-am-yuvi)
 
-- 📝 I regularly write articles on [https://yuvrajblogs.tech/](https://yuvrajblogs.tech/)
+- 📝 I regularly write articles on my own [website](https://yuvrajblogs.tech/) & [medium](https://medium.com/@yuvichh01)
 
 - 💬 Ask me about **Open Source and Cloud Technologies**
 
