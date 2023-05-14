@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-yuvi" alt="i-am-yuvi" /></a> </p>
 
-- 🔭 I’m currently working on Argo
+- 🔭 I’m currently working on Jenkins & CNCF
 
 - 🌱 I’m currently learning **ML & AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i-am-yuvi](https://github.com/i-am-yuvi)
 
-- 📝 I regularly write articles on my own [website](https://yuvrajblogs.tech/) & [medium](https://medium.com/@yuvichh01)
+- 📝 I regularly write articles on my own [website](https://yuvichh.hashnode.dev/) & [medium](https://medium.com/@yuvichh01)
 
 - 💬 Ask me about **Open Source and Cloud Technologies**
 
