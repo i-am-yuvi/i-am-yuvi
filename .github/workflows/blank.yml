@@ -19,7 +19,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: '@iamyuvi' # Hashnode Username
+          USERNAME: 'iamyuvi' # Hashnode Username
           BLOG_URL: 'https://yuvichh.hashnode.dev/' # Blog URL
           COUNT: 3 # MAX Visisble
         env:
