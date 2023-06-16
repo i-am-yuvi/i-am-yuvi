@@ -12,8 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=i-am-yuvi&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-yuvi&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=uvource&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
+## 🐦 Latest Blog on Hashnode🔖
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
