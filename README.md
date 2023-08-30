@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **ArgoCD & Prometheus**<br><br>🌱 I’m currently learning **React, Django & Flask**<br><br>👯 I’m looking to collaborate on **any Open Source project**<br><br>🤝 I’m looking for help with **Machine Learning & AI**<br><br>📝 I regularly write articles on [yuvichh.hashnode.dev](yuvichh.hashnode.dev)<br><br>💬 Ask me about **Cloud, DevOps and Golang**<br><br>📫 How to reach me **yuvichh01@gmail.com**<br><br>📄 Know about my experiences [yuvrajchhetri.me](yuvrajchhetri.me)<br><br>⚡ Fun fact **I like scrolling Twitter & Twitter Spaces**
+🔭 I’m currently working on **ArgoCD & Prometheus**<br><br>🌱 I’m currently learning **Golang & DevOps**<br><br>👯 I’m looking to collaborate on **any Open Source project**<br><br>🤝 I’m looking for help with **Machine Learning & AI**<br><br>📝 I regularly write articles on [yuvichh.hashnode.dev](yuvichh.hashnode.dev)<br><br>💬 Ask me about **Cloud, DevOps and Golang**<br><br>📫 How to reach me **yuvichh01@gmail.com**<br><br>📄 Know about my experiences [yuvrajchhetri.me](yuvrajchhetri.me)<br><br>⚡ Fun fact **I like scrolling Twitter & Twitter Spaces**
 
 
 ## 🌐 Socials:
