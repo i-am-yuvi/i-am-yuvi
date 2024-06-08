@@ -17,7 +17,7 @@ jobs:
         uses: "HohShenYien/action-hashnode-blog@main"
         with:
           USERNAME: 'iamyuvi'
-          BLOG_URL: 'https://yuvichh.hashnode.dev/'
+          BLOG_URL: 'https://bytecorner.dev/'
           COUNT: 5
           FILE: "README.md"
           STYLE: "blog-left"
