@@ -20,7 +20,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           USERNAME: 'iamyuvi' # Hashnode Username
-          BLOG_URL: 'https://yuvichh.hashnode.dev/' # Blog URL
+          BLOG_URL: 'https://bytecorner.dev/' # Blog URL
           COUNT: 3 # MAX Visisble
         env:
           GITHUB_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
