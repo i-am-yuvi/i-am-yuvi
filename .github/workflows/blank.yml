@@ -1,4 +1,4 @@
-name: "📚 Blog Updater"
+name: "📚 Hashnode Blog Updater"
 
 on:
   workflow_dispatch:
@@ -13,11 +13,15 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.2"
+      - name: "📥  blog-left"
+        uses: "HohShenYien/action-hashnode-blog@main"
         with:
-          USERNAME: 'iamyuvi' # Hashnode Username
-          BLOG_URL: 'https://yuvichh.hashnode.dev/' # Blog URL
-          COUNT: 3 # MAX Visisble
+          USERNAME: 'iamyuvi'
+          BLOG_URL: 'https://yuvichh.hashnode.dev/'
+          COUNT: 5
+          FILE: "README.md"
+          STYLE: "blog-left"
+          USE_CANONICAL_URL: "true"
+          USE_CUSTOM_BLOG_URL: "true"
         env:
-          GITHUB_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
