@@ -16,7 +16,7 @@ jobs:
       - name: 'Hashnode Blog Action'
         uses: "Sachin-chaurasiya/hashnode-blog-action@main"
         with:
-          HASHNODE_PUBLICATION_NAME: 'https://bytecorner.dev/'
+          HASHNODE_PUBLICATION_NAME: 'https://yuvichh.hashnode.dev/'
           FORMAT: 'list'
         env:
           GITHUB_TOKEN: ${{ secrets.HASHNODE_TOKEN }}
